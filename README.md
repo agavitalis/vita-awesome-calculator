@@ -14,7 +14,7 @@ The app was built on **React Native**. and can be used to perform the following 
 
 > The final apk can be downloaded here : <insert link>
 
-> The Balsamiq Mockup can be downloaded here : https://github.com/jumaallan/AndelaMedManager/tree/master/mockup/AndelaMedManager.bmpr
+> The Balsamiq Mockup can be downloaded here : <insert link>
 
 ## Prerequisites
 You will need the following to run this project:
@@ -32,7 +32,7 @@ You will need the following to run this project:
 ### The App Layout Page
 This application has a simple layout, with a very good, attractive and awesome interface as shown:
 
-<p align="center"><img src="images/awesome_vita.png" alt="Vita Awesome Calculator" ></p>
+<p align="center"><img src="images/awesome_vita.png" alt="Vita Awesome Calculator" width="200" height></p>
 
 
 ### Extra Features
