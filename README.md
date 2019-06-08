@@ -35,9 +35,6 @@ This application has a simple layout, with a very good, attractive and awesome i
 <p align="center"><img src="images/awesome_vita.png" alt="Vita Awesome Calculator" width="200" height></p>
 
 
-### Extra Features
-* Backup User and Medicine Data to their Google Drive - Not fully complete
-
 ### Updates and Collaboration
 * This application is still maintained
 * Feel free to fork, start and contribute to this project
